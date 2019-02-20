@@ -27,10 +27,6 @@ body {
 
 
 
-
-
-
-
 @media (min-width: 0) {
   .card-deck .card {
     flex: 0 0 calc(100% - 30px);
